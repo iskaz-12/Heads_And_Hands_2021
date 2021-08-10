@@ -1,0 +1,6 @@
+﻿  HeadsAndHandsTask2021.cpp
+c:\users\1\source\repos\headsandhandstask2021\headsandhandstask2021\headsandhandstask2021.cpp(324): warning C4244: аргумент: преобразование "float" в "unsigned short", возможна потеря данных
+c:\users\1\source\repos\headsandhandstask2021\headsandhandstask2021\headsandhandstask2021.cpp(328): warning C4244: аргумент: преобразование "float" в "unsigned short", возможна потеря данных
+c:\users\1\source\repos\headsandhandstask2021\headsandhandstask2021\headsandhandstask2021.cpp(336): warning C4244: аргумент: преобразование "float" в "unsigned short", возможна потеря данных
+c:\users\1\source\repos\headsandhandstask2021\headsandhandstask2021\headsandhandstask2021.cpp(340): warning C4244: аргумент: преобразование "float" в "unsigned short", возможна потеря данных
+  HeadsAndHandsTask2021.vcxproj -> C:\Users\1\source\repos\HeadsAndHandsTask2021\Debug\HeadsAndHandsTask2021.exe
